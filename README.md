@@ -2,17 +2,17 @@
 ## Projet I.A. - présentation du projet
 Il s'agit d'une présentation intégrant un notebook Jupyter qui montre l'ensemble de notre démarche :
 
-    La génération de votre/vos jeux de données en justifiant les choix et les traitements effectués pour faire face aux problématiques classiques de ce type de travail.
+*La génération de votre/vos jeux de données en justifiant les choix et les traitements effectués pour faire face aux problématiques classiques de ce type de travail.
 
-    le choix de (des) l'algorithme(s) d'"IA" retenu(s).
+*le choix de (des) l'algorithme(s) d'"IA" retenu(s).
 
-    l'analyse des résultats obtenus et leur interprétation en s'appuyant sur des métriques.
+*l'analyse des résultats obtenus et leur interprétation en s'appuyant sur des métriques.
 
-    La démarche mise en œuvre pour améliorer un modèle.
+*La démarche mise en œuvre pour améliorer un modèle.
 
-    le choix du modèle retenu au final parmi les différents essais effectués en justifiant pas rapport au besoin de votre client et des métriques.
+*le choix du modèle retenu au final parmi les différents essais effectués en justifiant pas rapport au besoin de votre client et des métriques.
 
-    nos propositions finales justifiées
+*nos propositions finales justifiées
 
 ## Projet I.A. - Livrable : éthique
 
@@ -20,19 +20,19 @@ Il s'agit dans un document mettant en évidence votre appropriation de la métho
 
 projet d'IA est éthique selon 7 exigences recommandées par la Commission Européenne :
 
-    respect de l'autonomie humaine
+*respect de l'autonomie humaine
 
-    robustesse technique et sécurité
+*robustesse technique et sécurité
 
-    confidentialité et gouvernance des données
+*confidentialité et gouvernance des données
 
-    transparence
+*transparence
 
-    diversité, non-discrimination et équité
+*diversité, non-discrimination et équité
 
-    bien-être environnemental et sociétal
+*bien-être environnemental et sociétal
 
-    responsabilité
+*responsabilité
 
 # Installation 
 git clone https://github.com/DraKkarW2/Projet_Algo-Dur.git
