@@ -1,38 +1,22 @@
-# Projet_IA
+# Projet IA
 ## Projet I.A. - présentation du projet
-Il s'agit d'une présentation intégrant un notebook Jupyter qui montre l'ensemble de notre démarche :
+L'entreprise de produits pharmaceutiques HumanForYou basée en Inde emploie environ 4000 personnes. Cependant, chaque année elle subit un turn-over d'environ 15% de ses employés nécessitant de retrouver des profils similaires sur le marché de l'emploi.
 
-- La génération de votre/vos jeux de données en justifiant les choix et les traitements effectués pour faire face aux problématiques classiques de ce type de travail.
+La direction trouve que ce niveau de turn-over n'est pas bon pour l'entreprise car :
 
-- le choix de (des) l'algorithme(s) d'"IA" retenu(s).
+- Les projets sur lesquels étaient les employés quittant la société prennent du retard ce qui nuit à la réputation de l'entreprise auprès de ses   clients et partenaires.
 
-- l'analyse des résultats obtenus et leur interprétation en s'appuyant sur des métriques.
+- Un service de ressources humaines de taille conséquente doit être conservé car il faut avoir les moyens de trouver les nouvelles recrues.
 
-- La démarche mise en œuvre pour améliorer un modèle.
+- Du temps est perdu à l'arrivée des nouveaux employés car ils doivent très souvent être formés et ont besoin de temps pour devenir pleinement opérationnels dans leur nouvel environnement.
+Le direction fait donc appel à nous, pour déterminer les facteurs ayant le plus d'influence sur ce taux de turn-over et lui proposer des modèles afin d'avoir des pistes d'amélioration pour donner à leurs employés l'envie de rester.
 
-- le choix du modèle retenu au final parmi les différents essais effectués en justifiant pas rapport au besoin de votre client et des métriques.
+![](https://media.tenor.com/WtsU8aG6ZTYAAAAC/penguin-working.gif)
+## Énoncé du problème
+Quels sont les facteurs responsables de l'attrition des employés de l'entreprise ? En effectuant une analyse exploratoire des données (AED), nous pouvons trouver comment chaque caractéristique est responsable de l'attrition des employés de l'entreprise, puis en concevant des modèles ML, trouver la probabilité des caractéristiques pour l'attrition.
 
-- nos propositions finales justifiées
-
-## Projet I.A. - Livrable : éthique
-
-Il s'agit dans un document mettant en évidence votre appropriation de la méthodologie proposée pour avoir une démarche éthique traçant vos choix justifiés par rapport aussi aux échanges qu'il y a eu dans votre équipe pendant toutes les phases du projet de la préparation du jeu de données à la proposition de pistes d'amélioration à votre client. En plus de la démarche, vous devrez bien mettre en évidence les décisions que vous avez prises dans l'équipe ainsi que les points de vigilance ou de contrôle à mettre en place par rapport aux problématiques éthiques rencontrées.
-
-projet d'IA est éthique selon 7 exigences recommandées par la Commission Européenne :
-
-- respect de l'autonomie humaine
-
-- robustesse technique et sécurité
-
-- confidentialité et gouvernance des données
-
-- transparence
-
-- diversité, non-discrimination et équité
-
-- bien-être environnemental et sociétal
-
-- responsabilité
+## Objective
+Nous devons modéliser la probabilité d'attrition à l'aide d'algorithme . Les résultats ainsi obtenus seront utilisés par la direction pour comprendre quels changements elle devrait apporter à son lieu de travail, afin d'inciter la plupart de ses employés à rester.
 
 # Installation 
-git clone https://github.com/DraKkarW2/Projet_Algo-Dur.git
+git clone https://github.com/DraKkarW2/Projet_IA.git
